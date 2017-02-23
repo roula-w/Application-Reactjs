@@ -1,0 +1,29 @@
+.App-logo {
+    position: fixed;
+    height: 103px;
+    width: 86px;
+    left: 40px;
+    z-index: 9;
+}
+.i-need-a-money {
+    position: fixed;
+    background: #d8682a;
+    padding: 12px 45px;
+    right: 40px;
+    color: white;
+    z-index: 9;
+}
+.back-to-frise {
+  position: fixed;
+  background: #000;
+  padding: 12px 45px;
+  right: 200px;
+  color: white;
+  z-index: 9;
+}
+.image-d-accueil {
+  background: url('chasse_grande.jpg') fixed no-repeat center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
